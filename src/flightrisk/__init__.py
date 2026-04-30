@@ -1,2 +1,0 @@
-"""Flight Risk prototype package."""
-
